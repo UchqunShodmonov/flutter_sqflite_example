@@ -1,0 +1,15 @@
+{
+    "cmake.configureOnOpen": false,
+    "cmake.sourceDirectory": "${workspaceFolder}/windows",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "search.exclude": {
+        "**/.fvm": true
+      },
+      "files.watcherExclude": {
+        "**/.fvm": true
+      },
+    // "dart.flutterSdkPath": "/opt/homebrew/bin/fvm/3.7.12"
+}
